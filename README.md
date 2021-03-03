@@ -3,20 +3,30 @@ It contains 3 projects. In the first one, some curve maipulation is happenning. 
 
 
 Drop down menu
+
+
 ![](images/pic1.png)
 
 
 Case 1
+
+
 ![](images/pic2.png)
 
 
 Case 2
+
+
 ![](images/pic3.png)
 
 
 Case 3
+
+
 ![](images/pic4.png)
 
 
 Case 4
+
+
 ![](images/pic5.png)
